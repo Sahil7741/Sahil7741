@@ -1,4 +1,4 @@
-### Hi there 👋
+[![An image of @sahil7741's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahil7741)](https://holopin.io/@sahil7741)
 
 <!--
 **Sahil7741/Sahil7741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
